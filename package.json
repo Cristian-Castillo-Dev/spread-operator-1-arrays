@@ -1,0 +1,24 @@
+{
+  "name": "spread-operator-1-arrays",
+  "version": "1.0.0",
+  "description": "Spread operator para arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test mocha"
+  },
+  "keywords": [
+    "javascript",
+    "spread operator",
+    "tutorial",
+    "practice"
+  ],
+  "author": "Ccastillo06",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
