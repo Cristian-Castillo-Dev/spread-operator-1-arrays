@@ -1,4 +1,4 @@
-# Spread Operators I. Arrays.
+# Spread Operator I. Arrays.
 
 Hemos aprendido como aplicar los **`spread operator`** a los arrays para crear copias con todo tipo de aplicaciones.
 
